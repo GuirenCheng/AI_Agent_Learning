@@ -15,7 +15,7 @@
 - 前端：Streamlit / Gradio
 
 ## 📁 项目结构
-
+```
 AI_Agent_Learning/
 ├── .gitignore          # Git 忽略文件配置
 ├── README.md           # 项目说明
@@ -24,7 +24,7 @@ AI_Agent_Learning/
 │   ├── rag/            # RAG 问答机器人（后续添加）
 │   └── agent/          # 自动化办公 Agent（后续添加）
 └── demos/              # 练习 Demo（后续添加）
-
+```
 ## 📝 学习进度
 - [x] 初始化项目，配置开发环境
 - [ ] 学习 LangChain 基础（待完成）
